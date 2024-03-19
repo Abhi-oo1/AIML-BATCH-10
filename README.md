@@ -15,4 +15,4 @@ E. ABHINAV REDDY
 
 [LAB-06](https://github.com/Abhi-oo1/AIML-BATCH-10/blob/main/LAB_06.ipynb)
 
-
+[LAB-07](https://github.com/Abhi-oo1/AIML-BATCH-10/blob/main/LAB_07.ipynb)
