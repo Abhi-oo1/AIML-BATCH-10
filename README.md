@@ -8,3 +8,7 @@ E. ABHINAV REDDY
 [LAB-1 Q3](https://github.com/Abhi-oo1/AIML-BATCH-10/blob/main/3.ipynb)
 
 [lab-3](https://github.com/Abhi-oo1/AIML-BATCH-10/blob/main/lab3_aiml.ipynb)
+
+[LAB-06](https://github.com/Abhi-oo1/AIML-BATCH-10/blob/main/lab6_AIML.ipynb)
+
+
